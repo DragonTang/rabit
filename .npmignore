@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+node_modules/
+bower_components/
+npm-debug.log
+test/
+selenium-debug.log
+Makefile*
+yarn-error.log

@@ -1,0 +1,17 @@
+{
+  "name": "rabit",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "repository": "https://github.com/DragonTang/rabit.git",
+  "author": "jiajia.tang <jiajia.tang@baidao.com>",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}

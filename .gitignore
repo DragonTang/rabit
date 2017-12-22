@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+node_modules/
+npm-debug.log
+selenium-debug.log
+Makefile*
+yarn-error.log
+.scannerwork
+.sconar
